@@ -1,7 +1,7 @@
 function Nav(){
     return(
         <nav>
-            <img src="airbnb-logo.png" className="nav-img"></img>
+            <img src="/Users/admin/Desktop/r1/Airbnb-Static-Clone/airbnb/airbnb-logo.png" className="nav-img"></img>
         </nav>
     )
 }
